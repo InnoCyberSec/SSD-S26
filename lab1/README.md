@@ -7,12 +7,12 @@
 - The content you're reading is loaded from `labX/README.md` into the labenv "Reporting" tab on every page load.
 - Further changes from the UI are auto-saved to the file (overwriting any previous content)
 - Press `Ctrl+P` to print this report, or manually export `README.md` using an external tool (e.g., `markdown-to-pdf` VSCode extension)
+- To include an image, write `![]()` in a new block, it should prompt for the image URL (you can upload image to a sevice like [Imgur](https://imgur.com/) to get a direct link)
 
 ## Reporting Approach
 
 A good technical report resembles a tutorial ready to be posted on your blog.
-mi
-echo 
+
 1. Clarify used commands or scripts with short explanation.
    
    ```cpp
